@@ -20,8 +20,8 @@
   "dependencies": {
     "ads.txt": "^0.3.0",
     "bluebird": "^3.5.3",
+    "jaeger-superagent": "git+https://github.com/infrasrc/jaeger-superagent.git",
     "lodash": "^4.17.13",
-    "superagent": "^4.1.0",
     "superagent-proxy": "^2.0.0"
   },
   "devDependencies": {
